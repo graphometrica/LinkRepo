@@ -1,4 +1,7 @@
 # LinkRepo
+
+Разработка независимых сервисов и блоков велась в разных репозиториях, специально созданных для этого хакатона. Тут собраны ссылки на все репозитории нашей команды.
+
 ## FrontEnd
 * Frontend : https://github.com/graphometrica/leaders2020_frontend_admin_react
   * Главный front-end на Node.js
